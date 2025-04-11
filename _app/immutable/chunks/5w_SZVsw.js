@@ -1,0 +1,1 @@
+import{t as a,a as p}from"./Cx56Cx4W.js";import{t as s,c as m,r as l}from"./vf6S-yid.js";import{s as n}from"./BQSHf_xV.js";/* empty css        */var u=a('<button class="border-5 px-12 py-2 uppercase font-bold bg-purple-200 svelte-866koo"> </button>');function d(e,o){var t=u(),r=m(t,!0);l(t),s(()=>n(r,o.title)),p(e,t)}export{d as B};
